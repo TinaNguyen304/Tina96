@@ -1,2 +1,1 @@
-# Tina96
-Test
+#Huong dan Git co ban
