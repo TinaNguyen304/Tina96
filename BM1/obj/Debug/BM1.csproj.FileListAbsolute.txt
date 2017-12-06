@@ -1,0 +1,10 @@
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\bin\Debug\BM1.exe.config
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\bin\Debug\BM1.exe
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\bin\Debug\BM1.pdb
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\bin\Debug\devcomponents.dotnetbar2.dll
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\BM1.csprojResolveAssemblyReference.cache
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\BM1.Form1.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\BM1.Properties.Resources.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\BM1.csproj.GenerateResource.Cache
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\BM1.exe
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\BM1.pdb

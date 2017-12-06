@@ -1,0 +1,14 @@
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\bin\Debug\BM1.exe.config
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\bin\Debug\BM1.exe
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\bin\Debug\BM1.pdb
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\bin\Debug\devcomponents.dotnetbar2.dll
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\QLDANGKIMH.csprojResolveAssemblyReference.cache
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\QLDANGKIMH.csproj.GenerateResource.Cache
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\BM1.exe
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\BM1.pdb
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\QLDANGKIMH.frmCtrHoc.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\QLDANGKIMH.frmDKHocPhan.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\QLDANGKIMH.frmHoSoSV.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\QLDANGKIMH.frmMonHoc.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\QLDANGKIMH.frmMonHocMo.resources
+D:\Study\Nhap mon Cong Nghe Phan Mem\Project\Project\BM1\obj\Debug\QLDANGKIMH.Properties.Resources.resources
